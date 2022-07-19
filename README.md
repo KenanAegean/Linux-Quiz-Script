@@ -1,4 +1,4 @@
-# MTG-Deck-Helper
+# Quiz of Operating Systems Course
 Lab Quiz of Operating Systems Course
 <br>
 - University of Łódz
